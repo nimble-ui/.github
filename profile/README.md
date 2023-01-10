@@ -6,4 +6,4 @@ As long as you adhere to the [Code of Conduct](https://github.com/nimble-ui/comm
 
 ## Update
 
-See this [announcement](https://github.com/orgs/nimble-ui/discussions/1) before contributing!
+See this [announcement](https://github.com/orgs/nimble-ui/discussions/7) before contributing!
